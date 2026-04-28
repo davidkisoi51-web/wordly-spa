@@ -14,7 +14,3 @@ Wordly is a modern Single Page Application (SPA) designed to help users search f
 * CSS3:** Custom styling with CSS variables and animations.
 * JavaScript (ES6+):** Fetch API, LocalStorage, and DOM manipulation.
 
-##  How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR-USERNAME/wordly-spa.git](https://github.com/YOUR-USERNAME/wordly-spa.git)
