@@ -14,3 +14,5 @@ Wordly is a modern Single Page Application (SPA) designed to help users search f
 * CSS3:** Custom styling with CSS variables and animations.
 * JavaScript (ES6+):** Fetch API, LocalStorage, and DOM manipulation.
 
+## Link to the website 
+** https://davidkisoi51-web.github.io/wordly-spa/
